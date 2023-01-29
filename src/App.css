@@ -1,0 +1,23 @@
+.cont{
+  width: 100%;
+  margin-left: 10rem;
+}
+
+.cont_inner{
+  font-size: 1.3rem;
+}
+
+.team_div{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading{
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
